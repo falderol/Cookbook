@@ -1,2 +1,3 @@
 # Cookbook
-It's recipes
+It's recipes.
+Have a good one? Add It!
